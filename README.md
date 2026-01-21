@@ -51,3 +51,7 @@ Updates, clarifications, and errata are tracked openly via this repository.
 
 The GitHub version is the canonical source of truth.
 Rendered formats (PDF, Leanpub) are derived from this content.
+
+## Licence: 
+
+This work is licensed under the Creative Commons Attribution 4.0 International Licence (CC BY 4.0).
